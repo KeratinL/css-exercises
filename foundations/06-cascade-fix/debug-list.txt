@@ -1,0 +1,7 @@
+First line is not the correct font size
+
+confirm button is not green
+
+The two lines under the button might be the wront font size
+
+the last line should be red
